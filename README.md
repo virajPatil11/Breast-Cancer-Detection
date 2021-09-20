@@ -2,7 +2,7 @@
 
 This repository is having all the codes  for making Breast Cancer Detection.
 
-## What's inside the database ?
+## What's inside the dataset ?
 
 ## There are two types of tumors:-
 
