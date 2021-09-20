@@ -9,7 +9,7 @@ This repository is having all the codes  for making Breast Cancer Detection.
 1) Banign : Not Cancers
 2) Malignant : Cancers
 
-And 569 samples of tumors
+And 569 samples of tumors with 30 Attributes each.
 
 I have divided the datasets in three following:
 1) 500 samples for testing.
